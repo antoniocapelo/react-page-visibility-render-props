@@ -1,6 +1,6 @@
 {
   "name": "react-page-visibility-render-props",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Boilerplate for publishing modern React modules with Rollup",
   "author": "Travis Fischer",
   "license": "MIT",
@@ -21,9 +21,9 @@
     "deploy": "gh-pages -d example/build"
   },
   "standard-version": {
-      "scripts": {
-          "posttag": "git push --follow-tags origin master"
-      }
+    "scripts": {
+      "posttag": "git push --follow-tags origin master"
+    }
   },
   "dependencies": {
     "visibilityjs": "^1.2.6"
