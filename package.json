@@ -1,8 +1,8 @@
 {
   "name": "react-page-visibility-render-props",
   "version": "1.2.1",
-  "description": "Boilerplate for publishing modern React modules with Rollup",
-  "author": "Travis Fischer",
+  "description": "Simple react wrapper for the pagevisibility.js package, using render props for better composability",
+  "author": "António Capelo",
   "license": "MIT",
   "repository": {
     "type": "git",
